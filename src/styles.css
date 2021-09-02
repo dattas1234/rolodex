@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  background: linear-gradient(to right, #b993d6, #8ca6db);
+}
+* {
+  box-sizing: border-box;
+}
+h1 {
+  font-family: "Bigelow Rules", cursive;
+  font-size: 72px;
+  margin-top: 0px;
+  color: #0ccac4;
+}
